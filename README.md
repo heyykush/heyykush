@@ -15,9 +15,6 @@
     
   ![snake gif](https://github.com/heyykush/heyykush/blob/output/github-snake-dark.svg)
 </div>
-
-
-
 <!-- Visit Counter -->
 <div align="center">
   
